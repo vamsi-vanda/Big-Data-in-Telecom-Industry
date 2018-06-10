@@ -15,3 +15,6 @@ PySpark Shell needs to be configured in order to run it inside Jupyter Notebook.
 
 
 Let us know if you need any help with Spark or HDFS Cluster Setup or if there are any issues running the notebook.
+
+##IMPORTANT
+If the .ipynb file doesn't open - use https://nbviewer.jupyter.org/ (copy the link of the of .ipynb file and run it)
